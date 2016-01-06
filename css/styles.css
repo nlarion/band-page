@@ -9,6 +9,8 @@ h1 {
 .sidebar {
   float: right;
   background-color: #cdede7;
+  border: 10px solid black;
+  padding: 10px;
   }
 
   .sidebar h2, p {
@@ -32,4 +34,9 @@ h1 {
   float: right;
   width: 25%;
 
+}
+
+img {
+  padding: 10px;
+  border: 10px solid black;
 }
