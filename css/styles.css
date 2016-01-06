@@ -1,3 +1,35 @@
+body {
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 50px;
+}
+
 .sidebar {
   float: right;
+  background-color: #cdede7;
+  }
+
+  .sidebar h2, p {
+    text-align: center;
+  }
+
+.sidebar h2 {
+  font-size: 30px;
+}
+
+.sidebar p {
+  font-size: 20px;
+}
+
+.bottomSideBar img{
+  width: 150px;
+  height: 150px;
+  float: right;
+}
+.column{
+  float: right;
+  width: 25%;
+
 }
